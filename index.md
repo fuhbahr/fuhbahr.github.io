@@ -10,3 +10,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Jakob Fugger:
 > Jedwede Macht sei dem, der prallgefüllte Talersäckel sein Eigen nennen kann.
+
+<img src="https://publicdomainvectors.org/photos/wolf-howling-silhouette-fre.jpg"/>
