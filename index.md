@@ -7,3 +7,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 * second trait
 * third trait
 * last trait
+
+Jakob Fugger:
+> Jedwede Macht sei dem, der prallgefüllte Talersäckel sein Eigen nennen kann.
